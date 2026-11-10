@@ -28,7 +28,7 @@ Or any browser. Keyboard shortcuts: `→ ←` navigate · `F` fullscreen · `O` 
 ## Status
 
 - **Stage**: Pre-seed
-- **Founder**: [Lightman Wang](https://www.linkedin.com/in/lightman-wang/) — Founder of [JR Academy](https://jiangren.com.au) (匠人学院)
+- **Founder**: [Lightman Wang](https://www.linkedin.com/in/lightman-wang/) — Founder of [JR Academy](https://jracademy.ai) (匠人学院)
 - **Org**: [JR Academy AI](https://github.com/JR-Academy-AI)
 
 ## Contact
